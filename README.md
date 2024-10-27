@@ -8,7 +8,6 @@ Welcome to my GitHub profile! I'm a content creator and programmer known for my 
 - 🌱 I’m diving deeper into cybersecurity and ethical hacking to share valuable insights.
 - 👯 I’m looking to collaborate on projects that blend creativity with technical skill, especially in the realm of digital security.
 - 💬 Ask me about programming, cybersecurity tactics, or my latest content creations!
-- 📫 How to reach me: [your.email@example.com]
 - ⚡ Fun fact: I once created a viral project that caught the attention of the entire community!
 
 ## 🛠️ Technologies & Tools
